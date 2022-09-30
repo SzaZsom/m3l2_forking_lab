@@ -1,2 +1,2 @@
-Zsombor Szabados 
+Zsombor DávidSzabados 
 Meta FRont-End Developer
